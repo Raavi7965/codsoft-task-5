@@ -52,3 +52,4 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+https://www.interviewbit.com/blog/cloud-computing-projects/
